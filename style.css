@@ -1,0 +1,64 @@
+body {
+    float: inline-start;
+    background-color: #1e2124;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    line-height: 23px;
+    margin-top: 200px;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+
+li {
+    list-style-type: none;
+    text-align: center;
+    font-size: 40px;
+    margin-right: 52px;
+    line-height: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: #7289da;
+}
+
+.social-github:hover {
+    font-size: 100px;
+}
+
+.social-reddit:hover {
+    font-size: 100px;
+}
+
+.social-twitter:hover {
+    font-size: 100px;
+}
+
+#profilepic {
+    width: 150px;
+}
+
+i {
+    font-size: 100px;
+}
+
+div img {
+    width: 120px;
+}
+
+#temp:hover {
+    color: turquoise;
+    font-size: 40px;
+}
+
+.footer {
+    overflow: hidden;
+    font-size: 12px;
+    position: relative;
+    margin-top: 15rem;
+}
