@@ -1,6 +1,6 @@
 body {
     float: inline-start;
-    background-color: #1e2124;
+    background-image: url(https://cdn.discordapp.com/attachments/876070724874428416/877100545859530752/27b47549b60b3871a811c4da58735b0e_8555057108003330842.png);
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
@@ -9,7 +9,6 @@ body {
 }
 body::-webkit-scrollbar {
     display: none;
-    background-image: url(https://cdn.discordapp.com/attachments/876070724874428416/877100545859530752/27b47549b60b3871a811c4da58735b0e_8555057108003330842.png);
 }
 
 li {
