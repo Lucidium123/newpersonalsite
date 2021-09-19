@@ -86,4 +86,8 @@ div img {
     }
   }
   
+  .avatar {
+    transform: translatey(0px);
+    animation: float 6s ease-in-out infinite;
+  }
   
